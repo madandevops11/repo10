@@ -1,3 +1,2 @@
-Hi this is file1, modified by main branch
-Hi this is file1, modified by c1 branch
+Hi this is file1, modified by d1 branch
 
